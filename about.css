@@ -1,0 +1,35 @@
+nav{
+    top: 0;
+    bottom: 0;
+}
+.carousel-caption{
+    top: 40%;
+    background-color:  rgba(28, 36, 36, 0.534);
+    width: 50%;
+    height: 20vh;
+    margin: auto;
+}
+.abouteicons{
+    font-size:5em;
+    color: rgba(255, 255, 255, 0.178);
+    margin-bottom: 5px;
+}
+.color{
+    color:  rgb(2, 245, 184);
+ 
+}
+.abouth3{
+    top: 10%;
+     right: 10%;
+    font-size: 3em;
+    color:  rgb(2, 245, 184);
+}
+.Resumeh3{
+    top: 10%;
+    right: 50%;
+   font-size: 3em;
+   color:  rgb(2, 245, 184);
+}
+.code{
+    font-size: 2rem;
+}

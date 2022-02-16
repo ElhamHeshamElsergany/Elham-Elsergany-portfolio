@@ -1,0 +1,167 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: white !important;
+}
+h1 , h4{
+    color: white;
+}
+.About{
+    background-image: url(img/background.jpeg);
+    width: 100%;
+    height: 100vh;
+}
+.layout{
+    background-color: rgba(34, 34, 37, 0.137);
+    width: 100%;
+    height: 100%;
+}
+.sideNav{
+    background-color: rgba(24, 24, 27, 0.507);
+    width: 15%;
+}
+i:hover{
+color: rgb(2, 245, 184);
+transition: all 1s ease-out;
+cursor: pointer;
+}
+.fac:hover{
+    color: blue !important;
+}
+.git:hover{
+    color: black !important;
+}
+.goo:hover{
+    color: rgb(204, 64, 64);
+}
+#optionbox{
+    position: fixed;
+    top: 100px;
+    right: 0;
+    z-index: 99999;
+}
+.colorbox{
+    border: solid 1px black;
+
+}
+.coloritem{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    margin-left: 2px;
+    cursor: pointer;
+}
+#toggleBtn{
+    cursor: pointer;
+    font-size: 20px;
+}
+/* about page */
+#carouselExampleCaptions{
+    height: 100vh;
+    width: 100%;
+}
+#carouselExampleCaptions img{
+    height: 100vh;
+    width: 100%;
+}
+/* CV Page */
+.AllCv{
+    background-image: url(img/background.jpeg);
+    width: 100%;
+    height: 100%;
+}
+.newlayer{
+    height: 35vh !important;
+    background-color: rgba(49, 63, 60, 0.616);
+    border-radius: 2%;
+}
+    h6::after{
+            content: "";
+    width: 8%;
+    height: 4px;
+    background-color: rgb(2, 245, 184);
+    left: 40%;
+    position: absolute;
+    top: 16%;
+}
+h6::before{
+    content: "";
+    width: 8%;
+    height: 4px;
+    background-color: rgb(2, 245, 184);
+    top: 16%;
+    left: 52%;
+    position: absolute;
+} 
+.downlod{
+    top:50%;
+    right: 10px;
+    background-color: rgba(49, 63, 60, 0.616);
+}
+/* end of cv page  */
+/* projects pages  */
+.allprojects{
+    background-color: rgb(41, 47, 47);
+    width: 100%;
+}
+img{
+    transform: scale(1.1);
+    transition: all .5s ease-in;
+    width: 100%;
+
+ }
+.inner{
+    overflow: hidden;
+}
+.icons{
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   top:0px;
+   left: 0px;
+   width: 100%;
+   color: #fff;
+   height: 100%;
+   background-color: rgba(2, 245, 184, 0.274);
+   text-align: center;
+   opacity: 0;
+}
+.img:hover .icons {
+   opacity: 1;
+   transition: opacity 2s ease;
+} 
+.img:hover img{
+   transform: scale(1.2);
+}
+.contact{
+    color: rgb(2, 245, 184);
+    top: 16px;
+     right: -8px ;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+.AllContact{
+    background-image: url(img/contact.jpeg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-mycolor{
+    background-color: rgb(2, 245, 184) ;
+}
+.text-color{
+    color: rgb(2, 245, 184);
+}
+button{
+    background-color:rgb(2, 245, 184) !important ;
+    color: white !important;
+    font-weight: bold !important;
+}
+.contactbg{
+background-color:rgba(49, 63, 60, 0.616) ;
+}
