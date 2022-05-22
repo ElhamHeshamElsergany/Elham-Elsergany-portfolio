@@ -1,6 +1,6 @@
 var typed = new Typed('.element', {
-    strings: ['Hello I am Elham ', 'Web Developer', 'Creative freelancer'],
-    typeSpeed: 100,
+    strings: ['Hello I am Elham Hesham ', 'Web Developer', 'Creative', 'Enthusiastic', 'hard worker','self learner'],
+    typeSpeed: 50,
     backSpeed: 50,
     loop: true,
     loopCount: Infinity,
@@ -24,6 +24,8 @@ myimg.addEventListener('mouseleave', function () {
     myimg.style.transform = "scale(1)";
     myimg.style.transitionDuration = "1s";
 })
+document.documentElement.style.setProperty('--animate-duration', '3s');
+
 // change them colors 
 
 $('#toggleBtn').click(function () {
@@ -63,4 +65,5 @@ fontfamily.click(function (e) {
 ///لسه هكمل عليها 
 function sendEmail() {
 		 alert(" thank you mail sent successfully");
+         
 }
