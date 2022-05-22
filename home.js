@@ -67,3 +67,4 @@ function sendEmail() {
 		 alert(" thank you mail sent successfully");
          
 }
+// about section 
