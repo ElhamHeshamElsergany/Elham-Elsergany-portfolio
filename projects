@@ -1,0 +1,265 @@
+ <!-- <div class="container me-5 "> -->
+            <!-- first row -->
+            <!-- <div class="row  mx-5 py-5">
+                <div class="col-md-3 text-center my-5">
+                    <div class="img position-relative ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/devfolio.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="caption-img my-3">
+                        <a href="https://elhamheshamelsergany.github.io/DevFolio-Project-elham/"
+                            class="text-decoration-none" target="_blank">
+                            <h5 class="h5-ho text-white">devfolio </h5>
+                        </a>
+                        <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                    </div>
+                </div>
+                <div class="col-md-3 text-center my-5">
+                    <div class="img position-relative ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/movie.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                        <div class="caption-img my-3">
+                            <a href="https://elhamheshamelsergany.github.io/movies-website/"
+                                class="text-decoration-none" target="_blank">
+                                <h5 class="h5-ho text-white">Movies Website</h5>
+                            </a>
+                            <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 text-center my-5">
+                    <div class="img position-relative ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/partry.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                        <div class="caption-img my-3">
+                            <a href="https://elhamheshamelsergany.github.io/party-/" class="text-decoration-none"
+                                target="_blank" rel="noopener noreferrer">
+                                <h5 class="h5-ho text-white">Party Web Page</h5>
+                            </a>
+                            <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 text-center my-5">
+                    <div class="img position-relative  ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/qoutes.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                        <div class="caption-img my-3">
+                            <a href="https://elhamheshamelsergany.github.io/quotes-/" class="text-decoration-none"
+                                target="_blank">
+                                <h5 class="h5-ho text-white">Today Qoute Page</h5>
+                            </a>
+                            <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+            <!-- second row -->
+            <!-- <div class="row  mx-5">
+                <div class="col-md-3 text-center ">
+                    <div class="img position-relative ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/angoura.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="caption-img my-3">
+                        <a href="https://elhamheshamelsergany.github.io/Angoura-Project-Elham/" target="_blank"
+                            class="text-decoration-none">
+                            <h5 class="h5-ho text-white">Angoura project </h5>
+                        </a>
+                        <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                    </div>
+                </div>
+                <div class="col-md-3 text-center ">
+                    <div class="img position-relative ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/smart login.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                        <div class="caption-img my-3">
+                            <a href="https://elhamheshamelsergany.github.io/sign-Up-and-login-form-/" target="_blank"
+                                class="text-decoration-none">
+                                <h5 class="h5-ho text-white">Smart login</h5>
+                            </a>
+                            <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 text-center">
+                    <div class="img position-relative ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/weather.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                        <div class="caption-img my-3">
+                            <a href="https://elhamheshamelsergany.github.io/weather-app/" target="_blank">
+                                <h5 class="h5-ho text-white">Weather</h5>
+                            </a>
+                            <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 text-center ">
+                    <div class="img position-relative">
+                        <div class="inner position-relative rounded">
+                            <img src="img/kids.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                        <div class="caption-img my-3">
+                            <a href="https://elhamheshamelsergany.github.io/kids-website-/" target="_blank"></a>
+                            <h5 class="h5-ho text-white">KIDS Learning website</h5>
+                            <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+            <!-- third row -->
+            <!-- <div class="row  mx-5">
+                <div class="col-md-3 text-center ">
+                    <div class="img position-relative ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/angoura.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="caption-img my-3">
+                        <a href="https://elhamheshamelsergany.github.io/Angoura-Project-Elham/" target="_blank"
+                            class="text-decoration-none">
+                            <h5 class="h5-ho text-white">Angoura project </h5>
+                        </a>
+                        <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                    </div>
+                </div>
+                <div class="col-md-3 text-center ">
+                    <div class="img position-relative ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/smart login.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                        <div class="caption-img my-3">
+                            <a href="https://elhamheshamelsergany.github.io/sign-Up-and-login-form-/" target="_blank"
+                                class="text-decoration-none">
+                                <h5 class="h5-ho text-white">Smart login</h5>
+                            </a>
+                            <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 text-center">
+                    <div class="img position-relative ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/weather.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                        <div class="caption-img my-3">
+                            <a href="https://elhamheshamelsergany.github.io/weather-app/" target="_blank">
+                                <h5 class="h5-ho text-white">Weather</h5>
+                            </a>
+                            <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 text-center ">
+                    <div class="img position-relative">
+                        <div class="inner position-relative rounded">
+                            <img src="img/kids.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                        <div class="caption-img my-3">
+                            <a href="https://elhamheshamelsergany.github.io/kids-website-/" target="_blank"></a>
+                            <h5 class="h5-ho text-white">KIDS Learning website</h5>
+                            <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+            <!-- fourth row -->
+            <!-- <div class="row  mx-5">
+                <div class="col-md-3 text-center ">
+                    <div class="img position-relative ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/angoura.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="caption-img my-3">
+                        <a href="https://elhamheshamelsergany.github.io/Angoura-Project-Elham/" target="_blank"
+                            class="text-decoration-none">
+                            <h5 class="h5-ho text-white">Angoura project </h5>
+                        </a>
+                        <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                    </div>
+                </div>
+                <div class="col-md-3 text-center ">
+                    <div class="img position-relative ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/smart login.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                        <div class="caption-img my-3">
+                            <a href="https://elhamheshamelsergany.github.io/sign-Up-and-login-form-/" target="_blank"
+                                class="text-decoration-none">
+                                <h5 class="h5-ho text-white">Smart login</h5>
+                            </a>
+                            <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 text-center">
+                    <div class="img position-relative ">
+                        <div class="inner position-relative rounded">
+                            <img src="img/weather.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                        <div class="caption-img my-3">
+                            <a href="https://elhamheshamelsergany.github.io/weather-app/" target="_blank">
+                                <h5 class="h5-ho text-white">Weather</h5>
+                            </a>
+                            <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 text-center ">
+                    <div class="img position-relative">
+                        <div class="inner position-relative rounded">
+                            <img src="img/kids.png" alt="Michael Broad">
+                            <div class="icons  position-absolute ">
+                            </div>
+                        </div>
+                        <div class="caption-img my-3">
+                            <a href="https://elhamheshamelsergany.github.io/kids-website-/" target="_blank"></a>
+                            <h5 class="h5-ho text-white">KIDS Learning website</h5>
+                            <span class="text-muted">using qoutes API,JS,HTML,CSS,Bootstrap</span>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+        <!-- </div> -->
